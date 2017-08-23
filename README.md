@@ -43,7 +43,7 @@ GET /api/exchangeRates/latest
 ### List Exchange Rates in Date Interval
 
 ```http
-GET /api/exchangeRateSeries?startDate={START_DATE}&amp;endDate={END_DATE}
+GET /api/exchangeRateSeries?startDate={START_DATE}&endDate={END_DATE}
 ```
 
 ```json
